@@ -1,0 +1,9 @@
+name = CMA Timespan
+description = Utility module returns start and end dates of arbitrary time periods based on business rules
+
+package = "Community Media Advanced"
+version = "7.x-1.0"
+core = "7.x"
+project = "timespan"
+project_status_url = https://github.com/cm-advanced/timespan
+php = "5.2.4"
